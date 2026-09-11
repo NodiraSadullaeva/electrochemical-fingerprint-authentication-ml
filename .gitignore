@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Real / confidential data — never commit
+data/
+*.csv
+!synthetic_output/*.csv
