@@ -1,6 +1,6 @@
 # Machine Learning for Electrochemical Fingerprint Authentication
 
-![Preprocessing pipeline](assets/pipeline_diagram.jpg)
+![Preprocessing pipeline](pipeline_diagram.jpg)
 
 A BSc final year project applying machine learning to distinguish genuine from counterfeit spirits using electrochemical fingerprinting data (cyclic voltammetry), developed in partnership with an industrial technology SME.
 
@@ -11,7 +11,7 @@ Each sample is represented by a 1400-dimensional feature vector (current respons
 - Generalisation testing: repeated stratified train/test splits, train-test gap analysis and cross-validation variance, specifically to catch the overfitting this kind of feature-to-sample ratio invites
 - Confidence-based deployment framework: inter-model agreement on unlabelled field samples, used to decide which predictions can be trusted automatically and which need a human in the loop
 
-![Algorithm comparison](assets/algorithm_comparison.jpg)
+![Algorithm comparison](algorithm_comparison.jpg)
 
 ## Results
 The two strongest models generalised cleanly across repeated cross-validation with no meaningful train–test gap, exceeding the project's pre-defined accuracy and stability criteria (with the original data given from the industry). Applied to unlabelled field samples, the models showed strong inter-model agreement, supporting a tiered auto-classify / flag-for-review deployment strategy. Full methodology, metrics, and critical discussion of the results (including honest scepticism about the very high accuracy) are in the written report (for confidentiality reasons).
