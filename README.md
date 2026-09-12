@@ -21,7 +21,7 @@ This was an industry-sponsored project, and the dataset was collected and is own
 - The generated dataset is included here as all_data.csv
 
 ## Repository structure
-[whisky_authentication_pipeline.ipynb](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/whisky_authentication_pipeline.ipynb) - full pipeline
+[authentication_pipeline.ipynb](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/authentication_pipeline.ipynb) - full pipeline
 
 [all_data.csv]() - generated data
 
