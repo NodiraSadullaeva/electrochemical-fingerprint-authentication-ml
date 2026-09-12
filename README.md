@@ -21,11 +21,11 @@ This was an industry-sponsored project, and the dataset was collected and is own
 - The generated dataset is included here as all_data.csv
 
 ## Repository structure
-whisky_authentication_pipeline.ipynb - full pipeline
-all_data.csv - generated data
-requirements.txt
-.gitignore
-README.md
+[whisky_authentication_pipeline.ipynb](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/whisky_authentication_pipeline.ipynb) - full pipeline
+[all_data.csv]() - generated data
+[requirements.txt](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/requirements.txt)
+[.gitignore](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/.gitignore)
+[README.md](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/README.md)
 
 ## Tech stack
 Python, pandas, scikit-learn, SciPy, NumPy, matplotlib, seaborn
