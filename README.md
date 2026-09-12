@@ -23,7 +23,7 @@ This was an industry-sponsored project, and the dataset was collected and is own
 ## Repository structure
 [authentication_pipeline.ipynb](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/authentication_pipeline.ipynb) - full pipeline
 
-[all_data.csv]() - generated data
+[all_data.csv](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/all_data.csv) - generated data
 
 [requirements.txt](https://github.com/NodiraSadullaeva/electrochemical-fingerprint-authentication-ml/edit/main/requirements.txt)
 
